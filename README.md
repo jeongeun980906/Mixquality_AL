@@ -23,6 +23,7 @@ Active learning on MNIST: Ambiguous MNIST : EMNIST = 1:60:1
 
 ## Method
 use MLN + Feature Density
+Traning process of MLN is same as [paper](https://arxiv.org/abs/2111.01632) and [implementation](https://github.com/jeongeun980906/Uncertainty-Aware-Robust-Learning).
 
 <p align="center">
   <img width="600" height="auto" src="https://github.com/jeongeun980906/Mixquality_AL/blob/main/misc/method.png">
