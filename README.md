@@ -18,24 +18,24 @@ which is same with [DDU](https://arxiv.org/pdf/2102.11582.pdf) paper.
 
 Active learning on MNIST: Ambiguous MNIST : EMNIST = 1:60:1
 <p align="center">
-  <img width="600" height="auto" src="https://github.com/jeongeun980906/Mixquality_AL/blob/master/misc/problem.png">
+  <img width="600" height="auto" src="https://github.com/jeongeun980906/Mixquality_AL/blob/main/misc/problem.png">
 </p>
 
 ## Method
 use MLN + Feature Density
 
 <p align="center">
-  <img width="600" height="auto" src="https://github.com/jeongeun980906/Mixquality_AL/blob/master/misc/method.png">
+  <img width="600" height="auto" src="https://github.com/jeongeun980906/Mixquality_AL/blob/main/misc/method.png">
 </p>
 
 ## Expriment Results
 Dirty MNIST
 <p align="center">
-  <img width="600" height="auto" src="https://github.com/jeongeun980906/Mixquality_AL/blob/master/misc/dirty_mnist_2.png">
+  <img width="600" height="auto" src="https://github.com/jeongeun980906/Mixquality_AL/blob/main/misc/dirty_mnist_2.png">
 </p>
 
 OOD MNIST
 <p align="center">
-  <img width="600" height="auto" src="https://github.com/jeongeun980906/Mixquality_AL/blob/master/misc/ood_mnist_2.png">
+  <img width="600" height="auto" src="https://github.com/jeongeun980906/Mixquality_AL/blob/main/misc/ood_mnist_2.png">
 </p>
 
